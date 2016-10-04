@@ -1,0 +1,4 @@
+﻿  Source.cpp
+c:\users\estebanmi\documents\visual studio 2015\projects\exercises12345\exercises12345\source.cpp(69): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  exercises12345.vcxproj -> c:\users\estebanmi\documents\visual studio 2015\Projects\exercises12345\Debug\exercises12345.exe
+  exercises12345.vcxproj -> c:\users\estebanmi\documents\visual studio 2015\Projects\exercises12345\Debug\exercises12345.pdb (Partial PDB)
